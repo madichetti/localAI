@@ -1,0 +1,60 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "WinGetVersion": "1.12.0",
+  "CreationDate": "2026-02-17T00:00:00.000Z",
+  "Sources": [
+    {
+      "SourceDetails": {
+        "Name": "winget",
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Type": "Microsoft.PreIndexed.Package"
+      },
+      "Packages": []
+    }
+  ],
+  "Packages": [
+    {
+      "PackageIdentifier": "Microsoft.VisualStudio.Enterprise"
+    },
+    {
+      "PackageIdentifier": "Microsoft.VisualStudioCode"
+    },
+    {
+      "PackageIdentifier": "OpenJS.NodeJS.LTS"
+    },
+    {
+      "PackageIdentifier": "Python.Python.3.14"
+    },
+    {
+      "PackageIdentifier": "Microsoft.DotNet.SDK.10"
+    },
+    {
+      "PackageIdentifier": "Git.Git"
+    },
+    {
+      "PackageIdentifier": "GitHub.cli"
+    },
+    {
+      "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+    },
+    {
+      "PackageIdentifier": "Docker.DockerDesktop"
+    },
+    {
+      "PackageIdentifier": "Kubernetes.kubectl"
+    },
+    {
+      "PackageIdentifier": "Helm.Helm"
+    },
+    {
+      "PackageIdentifier": "Microsoft.SQLServer.2025.Developer"
+    },
+    {
+      "PackageIdentifier": "Microsoft.SQLServerManagementStudio"
+    },
+    {
+      "PackageIdentifier": "7zip.7zip"
+    }
+  ]
+}
